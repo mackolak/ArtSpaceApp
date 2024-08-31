@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="hellebore_title">Hellebore flower</string>
+    <string name="hellebore_author_and_year">Unknown author(xxxx)</string>
+    <string name="trees_title">Amazing trees</string>
+    <string name="trees_author_and_year">Awesome author(1994)</string>
+    <string name="yellow_flowers_title">Beautiful Yellow Flowers</string>
+    <string name="yellow_flowers_author_and_year">Nature(2005)</string>
+</resources>
